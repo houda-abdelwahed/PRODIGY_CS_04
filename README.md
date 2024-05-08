@@ -4,6 +4,6 @@ This Python script implements a basic keylogger using the pynput library. It cap
 
 # Requirements
 Python 3.x
-pynput library
++ pynput library
 (You can install the pynput library using pip:
 pip install pynput )
